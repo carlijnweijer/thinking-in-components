@@ -10,7 +10,6 @@ export default function App() {
   return (
     <div>
       <Header />
-      <div className="section-header-spacer"></div>
 
       <div className="content">
         <Wanttolearn />
